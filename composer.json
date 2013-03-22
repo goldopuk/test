@@ -1,0 +1,6 @@
+{
+    "name": "goldopuk/test",
+    "require": {    
+        "monog/monog": "1.0.*"
+    }
+}
