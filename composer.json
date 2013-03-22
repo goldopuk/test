@@ -1,6 +1,6 @@
 {
     "name": "goldopuk/test",
     "require": {  
-        "php": ">=5.4.7",
+        "php": ">=5.4.7"
     }
 }
